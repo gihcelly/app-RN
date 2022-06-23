@@ -1,7 +1,7 @@
 # DIO 
 # Introdução ao React Native
 
-
+![tela da app](https://user-images.githubusercontent.com/98272891/175346162-9670ab72-c443-4b76-84dc-b14fafaf208c.jpeg)
 
 # Conteúdo
 - Conhecendo o React Native
